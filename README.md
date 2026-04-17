@@ -19,19 +19,19 @@ Aplikasi mobile News Reader yang dibangun menggunakan React Native dan Expo.
 
 ## 📱 Screenshots
 ### Loading State
-![Loading](./screenshots/loading.jpg)
+![Loading](./screenshots/loading.jpeg)
 
 ### Success State
-![Success](./screenshots/success.jpg)
+![Success](./screenshots/success.jpeg)
 
 ### Error State
-![Error](./screenshots/error.jpg)
+![Error](./screenshots/error.jpeg)
 
 ### Detail Screen
-![Detail](./screenshots/detail.jpg)
+![Detail](./screenshots/detail.jpeg)
 
 ### Pull to Refresh
-![Refresh](./screenshots/refresh.jpg)
+![Refresh](./screenshots/refresh.jpeg)
 
 ## ▶️ Cara Menjalankan
 1. Clone repository ini
